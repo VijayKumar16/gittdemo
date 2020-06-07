@@ -19,9 +19,6 @@ public class GitdaydemoApplication {
 		return "vijay kumar kotra s/o Ashok kumar";
 	}
 	
-	@GetMapping("/v")
-	public String getting() {
-		return "vijay kumar kotra ";
-	}
+	
 
 }
