@@ -16,7 +16,7 @@ public class GitdaydemoApplication {
 	
 	@GetMapping("/")
 	public String getting() {
-		return "vijay kumar kotra s/o Ashok kumar";
+		return "vijay kumar kotra s/o Ashok kumarrr";
 	}
 	
 	
